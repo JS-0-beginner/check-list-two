@@ -1,5 +1,7 @@
 /// node 4.bestfriends.js \\\
 
+console.log('');
+
 let friends = ['Abir', 'Likhon', 'Arko', 'Shakil', 'Sayad', 'Rajnikanth', 'Arafat'];
 
 function bestfriends(friends)
